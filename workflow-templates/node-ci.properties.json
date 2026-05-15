@@ -1,0 +1,7 @@
+{
+  "name": "Node CI",
+  "description": "Install, lint, type check, build, and test a Node.js / TypeScript project on Node 20 and 22.",
+  "iconName": "example",
+  "categories": ["JavaScript", "TypeScript", "Continuous integration"],
+  "filePatterns": ["package\\.json$"]
+}

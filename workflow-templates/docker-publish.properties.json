@@ -1,0 +1,7 @@
+{
+  "name": "Docker Publish",
+  "description": "Build a Docker image and publish it to GitHub Container Registry (ghcr.io) on push and tags.",
+  "iconName": "example",
+  "categories": ["Docker", "Continuous integration", "Deployment"],
+  "filePatterns": ["Dockerfile$", "docker-compose.*\\.ya?ml$"]
+}

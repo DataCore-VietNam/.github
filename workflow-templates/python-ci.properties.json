@@ -1,0 +1,7 @@
+{
+  "name": "Python CI",
+  "description": "Lint, format check, and test a Python project with uv across Python 3.10-3.13.",
+  "iconName": "example",
+  "categories": ["Python", "Continuous integration"],
+  "filePatterns": ["pyproject\\.toml$", "requirements.*\\.txt$", "setup\\.py$"]
+}
