@@ -61,8 +61,11 @@ PRs welcome across all repos. Each repo has its own CONTRIBUTING.md. All contrib
 ## Contact
 
 Website: [datacore.vn](https://datacore.vn)
+
 LinkedIn: [DataCore VietNam](https://linkedin.com/company/datacore-vietnam)
+
 Issues: open one in the relevant repo
+
 Email: contact@datacore.vn
 
 Built in Vietnam.
